@@ -1,4 +1,3 @@
-# Tubes_Aplikasi-Katalog-dan-Rating-Film-CineReview-
 package main
 import "fmt"
 
